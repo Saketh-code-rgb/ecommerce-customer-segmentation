@@ -176,9 +176,9 @@ python python/02_rfm_analysis.py
 ## 📞 Contact
 
 For questions or collaboration:
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
+- **GitHub:** [Saketh-code-rgb]
+- **LinkedIn:** [Yetinthala Saketh]
+- **Email:** [yetinthalasaketh@gmail.com]
 
 ---
 
